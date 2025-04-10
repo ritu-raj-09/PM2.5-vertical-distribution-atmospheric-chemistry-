@@ -29,3 +29,14 @@ Daily and monthly averages are computed over the specified grid
 
 curves are plotted together to visualize  variations in PM2.5 concentration across vertical atmospheric layers.
 
+# Vertical Cross-Section Plotting of Monthly Mean PM2.5 with Wind Barbs (MERRA-2 Data)
+
+This script computes and visualizes vertical cross-sections of monthly averaged PM2.5 concentrations and wind vectors over a specific longitude or latitude from MERRA-2 data across multiple years.
+
+## 📌 Objective
+
+- To compute pressure-resolved PM2.5 concentrations by vertically integrating aerosol components using MERRA-2 aerosol and meteorological data.
+- To produce monthly averaged vertical cross-sections of PM2.5 and overlay wind barbs to understand transport patterns.
+- To support multi-year climatological means.
+
+
